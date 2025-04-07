@@ -4,7 +4,12 @@
 
 A powerful **Streamlit-based web application** designed to analyze SARS-CoV-2 genomic data. Upload your dataset (CSV or Excel) and explore features like data summaries, visualizations, exploratory data analysis (EDA), and Random Forest model training to predict viral variants (e.g., Pangolin lineages).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ 🛠️ ***Website link*** - https://vaibhavtripathi.streamlit.app
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Features
 
@@ -103,25 +108,28 @@ Follow these steps to set up the project locally:
 ***Example Workflow***:
 Upload a dataset → Go to "Data Manipulation" → Group by Country and count → Visualize as a Pie chart → Train a model to predict Pangolin.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-🤝 Contributing
+🤝 ***Contributing***
 Contributions are welcome!
+
+
 1. **Fork the Repo**:
      ----->Click "Fork" on GitHub.
+
    
-3. **Clone Your Fork**:
+2. **Clone Your Fork**:
       ```bash
        git clone https://github.com/Vaibhav-0111/covid19-detection-analyzer.git
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
-📜 License
+📜 ***License***
 This project is licensed under the MIT License.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
-📧 Contact
+📧 **Contact**
 For questions or suggestions:
 
 ***GitHub***: Vaibhav-0111
