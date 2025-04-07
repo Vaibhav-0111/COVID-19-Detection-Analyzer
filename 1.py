@@ -11,7 +11,7 @@ from sklearn.model_selection import cross_val_score
 
 
 # Set page config
-st.set_page_config(page_title="COVID-19 Detection Analyzer", page_icon="🦠")
+st.set_page_config(page_title="COVID-19  Variants Detection Analyzer", page_icon="🦠")
 
 # Cache data loading
 @st.cache_data
