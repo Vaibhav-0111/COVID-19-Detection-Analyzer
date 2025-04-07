@@ -65,39 +65,39 @@ Follow these steps to set up the project locally:
 
 📖 Usage
 1. **Launch the App**:
-```bash
-    Run streamlit run 1.py and visit http://localhost:8501.
+   ```bash
+   Run streamlit run 1.py and visit http://localhost:8501.
    
-3. **Upload Data**:
-```bash
+2. **Upload Data**:
+   ```bash
     Upload a CSV or Excel file containing SARS-CoV-2 genomic data (e.g., with columns like Pangolin, Accession, Length, Collection_Date).
    
 4. **Navigate Sections**:
-```bash
+   ```bash
     Use the sidebar to switch between:
   
 5. **Basic Information**:
-```bash
+   ```bash
     Explore dataset details.
    
 6. **Data Manipulation**:
-```bash
+   ```bash
     Clean and group data.
 
 7. **Data Visualization**:
-```bash
+   ```bash
     Generate charts (run a group-by first).
 
 5. **EDA**:
-```bash
+   ```bash
     Analyze collinearity and outliers.
    
 6. **Model Training**:
-```bash
+   ```bash
    Train a Random Forest model on Pangolin variants.
    
 7. **Settings**:
-```bash
+   ```bash
    Toggle light/dark theme.
    
 ***Example Workflow***:
