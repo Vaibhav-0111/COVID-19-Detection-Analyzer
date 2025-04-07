@@ -7,8 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import cross_val_score
-from streamlit_google_auth import Authenticate
-import sqlite3
+
 
 
 # Set page config
