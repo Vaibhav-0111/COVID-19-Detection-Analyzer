@@ -55,7 +55,7 @@ def set_theme():
 # Main app
 def main():
     set_theme()
-    st.title(":rainbow[COVID-19 Detection Analyzer]")
+    st.title(":rainbow[COVID-19 Variants Detection Analyzer]")
     st.subheader(":gray[Analyze COVID-19 Genomic Data]", divider="rainbow")
 
     # File uploader
