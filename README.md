@@ -65,31 +65,40 @@ Follow these steps to set up the project locally:
 
 📖 Usage
 1. **Launch the App**:
-    --->Run streamlit run 1.py and visit http://localhost:8501.
+```bash
+    Run streamlit run 1.py and visit http://localhost:8501.
    
-2. **Upload Data**:
-    ---->Upload a CSV or Excel file containing SARS-CoV-2 genomic data (e.g., with columns like Pangolin, Accession, Length, Collection_Date).
+3. **Upload Data**:
+```bash
+    Upload a CSV or Excel file containing SARS-CoV-2 genomic data (e.g., with columns like Pangolin, Accession, Length, Collection_Date).
    
-3. **Navigate Sections**:
-    ---->Use the sidebar to switch between:
+4. **Navigate Sections**:
+```bash
+    Use the sidebar to switch between:
   
-4. **Basic Information**:
-    ---->Explore dataset details.
+5. **Basic Information**:
+```bash
+    Explore dataset details.
    
-5. **Data Manipulation**:
-    ---->Clean and group data.
+6. **Data Manipulation**:
+```bash
+    Clean and group data.
 
-6. **Data Visualization**:
-    ---->Generate charts (run a group-by first).
+7. **Data Visualization**:
+```bash
+    Generate charts (run a group-by first).
 
 5. **EDA**:
-    ---->Analyze collinearity and outliers.
+```bash
+    Analyze collinearity and outliers.
    
 6. **Model Training**:
-   ---->Train a Random Forest model on Pangolin variants.
+```bash
+   Train a Random Forest model on Pangolin variants.
    
 7. **Settings**:
-   ---->Toggle light/dark theme.
+```bash
+   Toggle light/dark theme.
    
 ***Example Workflow***:
 Upload a dataset → Go to "Data Manipulation" → Group by Country and count → Visualize as a Pie chart → Train a model to predict Pangolin.
@@ -116,5 +125,6 @@ This project is licensed under the MIT License.
 For questions or suggestions:
 
 ***GitHub***: Vaibhav-0111
+
 ***Email***: vaibhavtripathi724@gamil.com
       
