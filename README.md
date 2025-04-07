@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Detection Analyzer
+# 🦠 COVID-19 Variants Detection Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub Issues](https://img.shields.io/github/issues/yourusername/covid19-detection-analyzer) ![GitHub Stars](https://img.shields.io/github/stars/yourusername/covid19-detection-analyzer?style=social)
 
