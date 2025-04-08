@@ -28,9 +28,9 @@ A powerful **Streamlit-based web application** designed to analyze SARS-CoV-2 ge
 | Feature                | Screenshot                          |
 |------------------------|-------------------------------------|
 | **Home Page**          | ![Home](![Screenshot 2025-04-07 223054](https://github.com/user-attachments/assets/1261823e-3ec4-4729-a6cb-14e363500ded)|
-|
-| **Data Visualization** | ![Viz](![Screenshot 2025-04-07 223342](https://github.com/user-attachments/assets/8f96ed83-07a3-40fc-94ac-3b85c723cd4c) |
-|
+
+| **Data Visualization** | ![Viz](![Screenshot 2025-04-07 223342](https://github.com/user-attachments/assets/8f96ed83-07a3-40fc-94ac-3b85c723cd4c)|
+
 | **Model Training**     | ![Model](![Screenshot 2025-04-07 223515](https://github.com/user-attachments/assets/db1c8310-4f04-4594-a939-246d8b8bb712)|
 
 
