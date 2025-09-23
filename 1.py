@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import cross_val_score
 
-
+#happens
 
 # Set page config
 st.set_page_config(page_title="COVID-19  Variants Detection Analyzer", page_icon="🦠")
@@ -260,3 +260,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
