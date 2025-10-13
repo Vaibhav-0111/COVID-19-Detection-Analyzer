@@ -4,14 +4,14 @@
 
 A powerful **Streamlit-based web application** designed to analyze SARS-CoV-2 genomic data. Upload your dataset (CSV or Excel) and explore features like data summaries, visualizations, exploratory data analysis (EDA), and Random Forest model training to predict viral variants (e.g., Pangolin lineages).
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
  🛠️ ***Website link*** - https://vaibhavtripathi.streamlit.app
 
  🛠️  ***Dataset link***- https://drive.google.com/file/d/1c-VhRJX08N6JTzRKlkCNN6LVkWRqdp0r/view?usp=drive_link
 
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Features
 
